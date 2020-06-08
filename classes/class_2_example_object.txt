@@ -1,0 +1,25 @@
+Instance:
+
+LunchMenu
+
+
+Attributes:
+
+numberOfItems: 20
+
+cheapestItem: "Grilled Cheese"
+
+cheapestItemPrice: "$4.50"
+
+desserts: ["Cake", "Ice Cream", "Brownie"]
+
+
+Methods:
+
+addItem: 20 + 1 = 21
+
+changeCheapestItem: "Grilled Cheese" is replaced by another menu item, for instance "Chicken Nuggets"
+
+alterCheapestItemPrice: "$4.50" changes to the price of "Chicken Nuggets", when called, since it is now the cheapest at "$4.35"
+
+addNewDessert: desserts.push("Cookie") = ["Cake", "Ice Cream", "Brownie", "Cookie"]
