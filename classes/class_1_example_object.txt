@@ -1,0 +1,26 @@
+Instance:
+
+MondayBreakfastStaff
+
+
+Attributes:
+
+hourlyPay: "$7.90"
+
+numberOfServers: 4
+
+serverNames: ["Jen", "Mike", "Lucy", "Jill"]
+
+hasHost: false
+
+
+Methods:
+
+changeHourlyPay: hourlyPay string of "$7.90" changes to "$8.00"
+
+hireNewServer: 4 + 1 = 5
+
+fireServer: use serverNames.pop() to hire "Jill" and remove the string from the array
+            result is ["Jen", "Mike", "Lucy"] when the array is logged
+            
+coverHostStand: hasHost changes from false to true when a staff member goes to the stand
