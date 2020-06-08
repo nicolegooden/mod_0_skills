@@ -22,4 +22,4 @@ hireNewServer (numberOfServers increases by 1)
 
 fireServer (the .pop() method is applied to the serverNames array so that the last server in the array is removed)
 
-coverHostStand (hasHostess boolean changes from false to true)
+coverHostStand (hasHost boolean changes from false to true)
