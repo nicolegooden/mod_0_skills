@@ -5,7 +5,7 @@ BreakfastStaff
 
 Attributes:
 
-hourlyPay (float)
+hourlyPay (string)
 
 numberOfServers (integer)
 
