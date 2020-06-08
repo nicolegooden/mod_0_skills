@@ -1,0 +1,25 @@
+Class:
+
+Menu
+
+
+Attributes:
+
+numberOfItems: (integer)
+
+cheapestItem: (string)
+
+cheapestItemPrice (string)
+
+desserts: (array)
+
+
+Methods:
+
+addItem: (increase numberOfItems integer by 1)
+
+changeCheapestItem: (original cheapestItem string changes to a different menu item)
+
+alterCheapestItemPrice: (original cheapestItemPrice increases by indicated string amount)
+
+addNewDessert: (add dessert string to the desserts array with desserts.push())
