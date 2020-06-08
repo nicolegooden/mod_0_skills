@@ -11,7 +11,7 @@ numberOfServers (integer)
 
 serverNames (array)
 
-hasHostess (boolean)
+hasHost (boolean)
 
 
 Methods:
