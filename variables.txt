@@ -1,0 +1,28 @@
+1. var food = "the best part of the day";
+
+2. var isDelicious = true;
+
+3. food = "my favorite thing";
+
+4. var num2 = 2;
+
+5. var num7 = 7;
+
+6. var quotient = (num7 / num2);
+
+7. var songs = ["Umbrella", "Genius", "Breathe", "Stronger"];
+
+8.
+
+9. songs.shift();
+   console.log(songs);
+
+   Logs ["Genius", "Breathe", "Stronger"]
+
+10. console.log(`${food} ${food.length}`);
+
+    or
+
+    console.log(food.length)
+
+    When checking for the number of characters in the re-assigned food string, the console logs 17.
